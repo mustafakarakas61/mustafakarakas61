@@ -1,6 +1,6 @@
 # Mustafa-Karakas
 <h1 align="center">Hi 👋, I'm Mustafa Karakaş</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Spring Boot**
 
