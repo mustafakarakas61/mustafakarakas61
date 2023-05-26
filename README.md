@@ -19,3 +19,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafakarakas61&show_icons=true&theme=radical&locale=en" alt="mustafakarakas61" /></p>
 
+<p align="center">
+  <a href="https://github.com/mustafakarakas61">
+    <img src="https://komarev.com/ghpvc/?username=mustafakarakas61&color=blue&style=flat)" />
+  </a>
+</p>
+
