@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 -🌱   I'm learned **Spring Boot**
--[https://symfony.com/logos/symfony_black_03.svg]()   I’m currently learning **Symfony**
+- [https://symfony.com/logos/symfony_black_03.svg]()   I’m currently learning **Symfony**
 
 - 💬 Ask me about **Spring Boot** && **Symfony**
 
