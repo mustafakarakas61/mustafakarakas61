@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🌱 I've learned **Spring Boot**
-- ![Symfony Logo](https://symfony.com/logos/symfony_black_03.svg) I’m currently learning **Symfony**
+- ⚛️ I’m currently learning **Symfony** && **NextJS**
 
-- 💬 Ask me about **Spring Boot** && **Symfony**
+- 💬 Ask me about **Spring Boot** || **Symfony** || **NextJS**
 
 - 📫 How to reach me **mail.m.karakas@gmail.com**
 
