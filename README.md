@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mustafa Karakaş</h1>
-<h3 align="center">A passionate Expert backend developer from Turkey</h3>
+<h3 align="center">A passionate Senior backend developer from Turkey</h3>
 
-- 🌱 I've learned **Spring Boot**
-- ⚛️ I’m currently learning **Symfony** && **NextJS**
+- 🌱 I've learned **Spring Boot** && **Symfony**
+- ⚛️ I’m currently learning **NextJS**
 
 - 💬 Ask me about **Spring Boot** || **Symfony** || **NextJS**
 
